@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: linear-gradient(to top, #30cfd0 0%, #115dc2 100%);
+}
+h1{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+main{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 100vh;
+
+}
+.form{
+    width: 450px;
+    height: 450px;
+    border-radius: 8px;
+    padding: 20px;
+
+}
